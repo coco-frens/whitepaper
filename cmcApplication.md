@@ -149,10 +149,10 @@ NO ICO/IEO
 # ICO/IEO/Launch Price(optional)
 
 # API endpoint that displays ONLY TOTAL SUPPLY as a NUMERICAL value (Type 'NA' if not applicable)(optional)
-MUST be in this EXACT format - http://chainz.cryptoid.info/grs/api.dws?q=totalcoins. Total Supply refers to the # of coins in existence right now (minus any coins that have been verifiably burned.
+https://cocooracle.com/api/totalcoins
 
 # API endpoint that displays ONLY Circulating Supply as a numerical value(optional)
-MUST be in this EXACT format - http://chainz.cryptoid.info/grs/api.dws?q=circulating. Circulating Supply refers to the # of coins that are circulating in the market and in the general public's hands
+https://cocooracle.com/api/circulating
 
 # List of CMC-supported exchanges(optional)
 NA
