@@ -138,15 +138,15 @@ https://discord.gg/qdm8wBrDf6
 420,690,000,000,000.00 COCO
 
 # Total Supply (# of coins in existence right now minus any coins that have been verifiably burned.)(optional)
-403,693,157,377,484.3
+403,693,157,377,484.3 COCO
 
 # Max Supply (maximum # of coins that will ever exist in the lifetime of the asset)
 420,690,000,000,000.00 COCO
 
 # ICO/IEO Start Date(optional)
+NO ICO/IEO
 # ICO/IEO End Date(optional)
 # ICO/IEO/Launch Price(optional)
-Insert USD Price
 
 # API endpoint that displays ONLY TOTAL SUPPLY as a NUMERICAL value (Type 'NA' if not applicable)(optional)
 MUST be in this EXACT format - http://chainz.cryptoid.info/grs/api.dws?q=totalcoins. Total Supply refers to the # of coins in existence right now (minus any coins that have been verifiably burned.
@@ -155,7 +155,7 @@ MUST be in this EXACT format - http://chainz.cryptoid.info/grs/api.dws?q=totalco
 MUST be in this EXACT format - http://chainz.cryptoid.info/grs/api.dws?q=circulating. Circulating Supply refers to the # of coins that are circulating in the market and in the general public's hands
 
 # List of CMC-supported exchanges(optional)
-Enter NA if not applicable. Provide (i) screenshots (e.g. imgur/gyazo) and (ii) URLs that link directly to the market(s)/pair(s). Separate each URL with a comma. See example - https://www.binance.com/en/trade/BTC_USDT
+NA
 
 # [Optional] Are you willing to provide (dofollow) linkbacks to CMC?
 8 out of 10 applicants are willing to do so. Please see: https://gyazo.com/d76a8f1d7293bf9155b57d617c9b6efc. To understand what 'dofollow' means, please see: https://blog.alexa.com/dofollow-vs-nofollow-links/
