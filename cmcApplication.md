@@ -98,55 +98,49 @@ Insert a valid URL with the CONTRACT ADDRESS, e.g. https://etherscan.io/token/0x
 Insert a valid URL with the CONTRACT ADDRESS, e.g. https://etherscan.io/token/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599. If there is more than 1 explorer URL, please separate each entry with a comma. For example, https://etherscan.io/token/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599, https://ethplorer.io/address/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599, https://bscscan.com/token/0xe9e7cea3dedca5984780bafc599bd69add087d56, https://polygonscan.com/token/0xa1428174f516f527fafdd146b883bb4428682737
 
 # Source Code (e.g. Github, Gitter)(optional)
-Insert a valid URL.
+https://github.com/coco-frens
 
 # Whitepaper / Technical Documentation(optional)
-Insert a valid URL.
+https://github.com/coco-frens/whitepaper
 
 # Announcement (e.g. Bitcointalk)(optional)
-Insert a valid URL.
+
 
 # Message Board 1 (e.g. Blog/Medium)(optional)
-Insert a valid URL.
+https://medium.com/@cococommunity42069
 
 # Message Board(s) 2, 3, 4, 5 (e.g. Blog/Medium)(optional)
-Insert valid URL(s). If there is more than 1 URL, please separate each entry with a comma.
 
 # Twitter
-There is data validation for this field. Kindly ensure that your URL conforms to the following format. https://twitter.com/bitcoin
+https://twitter.com/thecocoethtoken
 
 # Reddit (optional)
-Insert a valid URL for a subreddit.
+
 
 # Facebook(optional)
-Insert a valid URL.
 
 # Video Channel (e.g. YouTube)(optional)
-Insert a valid URL.
 
 # Chat 1 (e.g. Discord, Telegram, Slack, Weibo).
-There is data validation for this field. Ex: https://t.me/coinmarketcap
+https://t.me/TheCocoEthToken
 
 # Chat(s) 2, 3, 4, 5 (e.g. Discord, Telegram, Slack, Weibo).(optional)
-Insert valid URL(s). If there is more than 1 URL, please separate each entry with a comma.
+https://discord.gg/qdm8wBrDf6
 
 # LinkedIn(optional)
-Insert a valid URL.
 
 # Mobile App 1 (e.g. Google Play store, iTunes store)(optional)
-Insert a valid URL.
 
 # Mobile App(s) 2, 3, 4, 5 (e.g. Google Play store, iTunes store)(optional)
-Insert valid URL(s). If there is more than 1 URL, please separate each entry with a comma.
 
 # Circulating Supply (# of coins that are circulating in the market and in the general public's hands.)
-Insert EXACT number of units (e.g. 21000000).
+420,690,000,000,000.00 COCO
 
 # Total Supply (# of coins in existence right now minus any coins that have been verifiably burned.)(optional)
-Insert EXACT number of units (e.g. 21000000).
+403,693,157,377,484.3
 
 # Max Supply (maximum # of coins that will ever exist in the lifetime of the asset)
-Insert EXACT number of units (e.g. 21000000). If the max supply is infinite, type '0'
+420,690,000,000,000.00 COCO
 
 # ICO/IEO Start Date(optional)
 # ICO/IEO End Date(optional)
