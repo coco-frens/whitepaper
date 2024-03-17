@@ -21,57 +21,44 @@ memes art nfts
 COCO - THE ULTIMATE PREDATOR, HE SNAPS, FLIPS, AND DRAGS YOU UNDER THE WATER
 
 # Detailed Project Description (Cryptoasset)
+About COCO
 
-About Pepe
-What Is PEPE?
-PEPE is a deflationary memecoin launched on Ethereum. The cryptocurrency was created as a tribute to the Pepe the Frog internet meme, created by Matt Furie, which gained popularity in the early 2000s.
+Meet COCO, the brainchild of digital artist Kero. Crafted in the spirit of Pepe NFTs, COCO is a one-of-a-kind meme featuring the ultimate predator, the crocodile-pepe. Dive into COCO's rich library of memes, with thousands of captivating images, and get ready for an exciting future ahead. Join the vibrant COCO community and #snapsnap your way into COCO infamy!
 
-The project aims to capitalize on the popularity of meme coins, like Shiba Inu and Dogecoin, and strives to establish itself as one of the top meme-based cryptocurrencies. PEPE appeals to the cryptocurrency community by instituting a no-tax policy and being up-front about its lack of utility, keeping things pure and simple as a memecoin.
+The project aims to support the amazing community of artists who have adopted COCO for their own, like PEPE, it strives to establish itself as one of the top meme-based cryptocurrencies. COCO appeals to the cryptocurrency community by instituting a no-tax policy and keeping things pure and simple as a memecoin.
 
-In late April to May 2023, the explosive surge of PEPE caused its market cap to reach a high of $1.6 billion at one point, minting millionaires out of early holders and attracting a strong community of like-minded followers. It has induced what some may dub a "memecoin season," causing other memecoins — some launched within hours — to go on spectacular pumps and just as astounding dumps. It remains to be seen if PEPE and other memecoins will go on to new highs, although that is certainly the hope of many believers waiting for the coming BTC halving cycle praying for a Bull Run.
+The NFT's created in the COCO community can be challenging to find, and the COCO eth token allows for investors to speculate while showing support for the artist community. The COCO community will always show support for the ecosystem and artists around coco.
 
-The PEPE roadmap features three phases, where phase one includes listing on CoinMarketCap, and getting $PEPE trending on Twitter, while phase two includes listing on centralized exchanges (CEXs) and phase three includes “tier 1” exchange listings and what the team terms a “meme takeover.”
+The COCO roadmap features three phases, where phase one includes listing on CoinMarketCap, and getting COCO and #snapsnap trending on Twitter, while phase two includes listing on centralized exchanges and phase three includes “tier 1” exchange listings.
 
-Who Are the Founders of Pepe?
-As of now, the founders of PEPE remain anonymous, which is not uncommon in the cryptocurrency world. Although information about the team behind the project is scarce, they have successfully garnered attention using social media platforms such as Twitter to promote their meme coin and foster a community around the memecoin.
-What Makes PEPE Unique?
-PEPE presents a unique offering within the meme coin market by building upon the legacy of Pepe the Frog, a character with a longstanding and controversial history. The project's dedication to honoring this character distinguishes it from other cryptocurrencies and strengthens its appeal within the crypto community.
-How Many PEPE Coins Are There in Circulation?
-PEPE employs a redistribution system that rewards long-term stakers, offering them incentives to remain committed to the project. This approach encourages coin stability by rewarding users for holding the token rather than selling it quickly. Additionally, PEPE features a burning mechanism whereby a portion of the coins are permanently removed from circulation on a regular basis. This aims to maintain scarcity despite the coin's 420,690,000,000,000 maximum supply.
+Who Are the Founders of COCO?
 
-Of the maximum supply, 93.1% were sent to the liquidity pool on Uniswap, where LP tokens were burnt, and the deployer contract was sent to a null address. The remaining 6.9% is held in a multi-sig wallet, for future CEX listings, bridges and liquidity pools. Users can track the PEPE/WETH pair on CMC DexScan.
+Technically the COCO contract was broadcasted by anonymous developers. But the contract was clean and when they left the community took over. The scale of the COCO meme is not to be underestimated and since this was the original currency, originally blessed by Kero, it will remain the ultimate repository of COCO memes for the entire space, and there are thousands of memes, created by hundreds of artists!
 
-How Is PEPE Secured?
-PEPE is an ERC-20 token on the Ethereum blockchain, which is secured by the Proof-of-Stake (PoS) consensus mechanism. Decentralized validators stake 32 ETH to process transactions and secure the network.
-Where Can You Buy PEPE?
-PEPE can be traded on Uniswap (V2), Uniswap (V3), Binance, KuCoin, Huobi, Gate.io, MEXC and more.
+What Makes COCO Unique?
 
-Want to keep track of PEPE prices in real-time? Download the CMC mobile app to get live price updates.
+COCO presents a unique offering within the meme coin market by building upon the legacy of Pepe the Frog, a character with a longstanding and controversial history. Like BOBO and MUMU, COCO serves to join the family as the "the ultimate predator who snaps, flips, and drags you under the water"
 
-Related Pages:
-Check out Dogecoin — the pioneering dog-themed memecoin.
+How Many COCO Coins Are There in Circulation?
 
-Find out more about Shiba Inu — another highly popular memecoin.
+The coin's maximum supply is 420,690,000,000,000 and there has been almost 5% burned via personal coin burns and a utility NFT called AiCoco. Of the maximum supply, 100% were sent to the liquidity pool on Uniswap, where LP tokens were burnt, and the smart contract was sent to a null address. A mall allocation has been contributed to a community fund called cococommunityfund.eth where budget will be for supporting the COCO artists and helping out the token where possible.
 
-Learn more about Uniswap — the decentralized exchange that PEPE is trading on.
+How Is COCO Secured?
+COCO is an ERC-20 token on the Ethereum blockchain, which is secured by the Proof-of-Stake (PoS) consensus mechanism. Decentralized validators stake 32 ETH to process transactions and secure the network.
 
-Refresh your knowledge on what memecoins are with CMC Glossary.
-
-Check out the funniest memecoin names with CMC Alexandria.
+Check out PEPE — the pioneering frog-themed memecoin.
+Find out more about BOBO — the pepe meme turned into a bear.
 
 
 # Platform (e.g. EOS, NEO, Ethereum, proprietary blockchain).
-Please specify all token platforms that the asset is currently on. For example, CHZ has ERC20 and BEP20 tokens and is therefore on the Ethereum and Binance blockchains.
+COCO is available for sale on Uniswap on Ethereum and Arbitrum networks.
 
 # Chain Fork(optional)
-Specify the chain/asset that the was project forked from (e.g. Bitcoin Cash was forked from Bitcoin and had the same blocks/history prior to the fork). Not to be confused with project forks. For example, Litecoin was forked from the Bitcoin source code, but it does not share the same block history. As such, Litecoin is NOT a chain fork of Bitcoin. Where possible, provide evidence/links for verification.
 
 # Hashing/Consensus Algorithm(optional)
-Team/Backers/Investors
-Provide a list of key employees, investors, and advisors. Describe their core competencies and past experience/achievements, and explain their involvement in your project. Where possible, provide evidence/links for verification.
 
 # Media Coverage/Awards(optional)
-Provide valid URL(s) to articles/references.
+
 
 # Traction/Adoption/Partnerships/MVPs/Apps
 This can take the form of user growth, partnerships, enterprise/consumer adoption, and roadmap progress. Quantify and qualify your points with concrete and specific examples. Where possible, provide evidence/links for verification.
