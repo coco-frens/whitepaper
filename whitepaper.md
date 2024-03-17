@@ -1,7 +1,5 @@
 # Whitepaper: Coco Coin - Bridging Art and Blockchain
 
-## NOTICE: THIS IS A PROPOSED WHITEPAPER AND IS NOT COPY SAFE UNTIL RATIFIED BY OTHER MEMBERS OF THE COMMUNITY
-
 ## Abstract
 
 Coco Coin (COCO) is an ERC-20 token built on the Ethereum blockchain, intertwining the worlds of art and blockchain technology. This whitepaper delves into the concept, creation, and aspirations of Coco Coin, exploring its origins as a meme-based token and its evolution into a community-driven platform for digital artists.
