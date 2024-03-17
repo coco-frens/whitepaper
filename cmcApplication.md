@@ -59,24 +59,23 @@ COCO is available for sale on Uniswap on Ethereum and Arbitrum networks.
 
 # Media Coverage/Awards(optional)
 
-
 # Traction/Adoption/Partnerships/MVPs/Apps
-This can take the form of user growth, partnerships, enterprise/consumer adoption, and roadmap progress. Quantify and qualify your points with concrete and specific examples. Where possible, provide evidence/links for verification.
 
 # Country of Origin (where majority of team is located)
-Please indicate the country where the majority of your team is located. If applicable, please provide a list of countries and indicate the location of your headquarters.
+United States
 
 # Link to Logo
-3 conditions MUST be met: (1) Transparent background; (2) Square (200x200); unequal dimensions will be rejected! (3) PNG format. See https://onlinepngtools.com/create-transparent-png and https://www.photoresizer.com/. If possible, it is recommended that you provide logo URLs ending with .png so that our system can extract the logo directly.
+https://github.com/coco-frens/whitepaper/blob/main/coco200x200.png
 
 # Website 1
-There is data validation for this field. Kindly ensure that your URL conforms to the following format: https://www.website.com. If you still have issues, feel free to insert a placeholder link. You can then add the real URL in the comment/proof section in the last field of this form.
+https://cocoethtoken.com/
 
 # Website 2 (Optional)(optional)
-There is data validation for this field. Kindly ensure that your URL conforms to the following format: https://www.website.com. We recommend adding your dexscan URL for this field (e.g. https://coinmarketcap.com/dexscan/ethereum/0xa43fe16908251ee70ef74718545e4fe6c5ccec9f/) If you still have issues, feel free to insert a placeholder link. You can then add the real URL in the comment/proof section in the last field of this form.
+https://coinmarketcap.com/dexscan/ethereum/0xeae4c727ea43990ea92f427da36ddff8e72f6854/
 
 # Annex A - Rich List & Reserve Addresses (Mandatory for Circulating Supply/Ranking)(optional)
-Paste the URL of your completed Annex A Google Sheet here. Please refer to the instructions in Cell A1 of this link and ensure that your submission is in the CORRECT format: https://docs.google.com/spreadsheets/d/1ON2o9fZtdj6aa_uaT7ALtGx1VxFnIDUi8-uS-fWji0o/edit#gid=1181839735.
+NOTE incomplete
+https://docs.google.com/spreadsheets/d/1zRbnd1skQEJkEVq3nNzbdp9QMghYrz8sOU5Zi_fq11w/edit#gid=1181839735
 
 # Emission/release schedule(optional)
 Shows the emission/release schedule of the asset over time. See examples - https://skale.network/tokenomics, https://geeq.io/tokenomics/, https://www.orchid.com/oxt
