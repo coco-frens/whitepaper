@@ -1,3 +1,5 @@
+https://support.coinmarketcap.com/hc/en-us/requests/new?ticket_form_id=360000493112
+
 # - [New Listing] Add cryptoasset
 COCO ETH TOKEN - COCO - Add cryptoasset/exchange
 
@@ -78,23 +80,23 @@ NOTE incomplete
 https://docs.google.com/spreadsheets/d/1zRbnd1skQEJkEVq3nNzbdp9QMghYrz8sOU5Zi_fq11w/edit#gid=1181839735
 
 # Emission/release schedule(optional)
-Shows the emission/release schedule of the asset over time. See examples - https://skale.network/tokenomics, https://geeq.io/tokenomics/, https://www.orchid.com/oxt
+No Emissions
 
 # Platform of Contract Address 1
-0-Not applicable
-Select '-' if the platform is not in the dropdown
+1-Ethereum
 
 # Contract Address 1
-For MOVE contracts (e.g. APTOS, SUI), pls follow this format: 0xebbf537bc3686be32fe22b498b42715641bbb209267be72236a352e0444cc5df::sui_pepe::SUI_PEPE. Input 'NA' if there is no contract yet (for untracked listings).
+For MOVE contracts (e.g. APTOS, SUI), pls follow this format: 
+0xe6dbeadd1823b0bcfeb27792500b71e510af55b3
 
 # Number of Decimals (Contract Address 1)(optional)
-This is usually found on the explorer page of the asset. See example - https://gyazo.com/7e2b24ca517cd90fd3a36f83d7c0a88f
+18
 
 # Block Explorer 1(optional)
-Insert a valid URL with the CONTRACT ADDRESS, e.g. https://etherscan.io/token/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599. This is a mandatory field for projects that are already trading on an exchange.
+https://etherscan.io/address/0xe6dbeadd1823b0bcfeb27792500b71e510af55b3
 
 # Block Explorer(s) 2, 3, 4, 5 (e.g. Etherscan, Ethplorer)(optional)
-Insert a valid URL with the CONTRACT ADDRESS, e.g. https://etherscan.io/token/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599. If there is more than 1 explorer URL, please separate each entry with a comma. For example, https://etherscan.io/token/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599, https://ethplorer.io/address/0x2260fac5e5542a773aa44fbcfedf7c193bc2c599, https://bscscan.com/token/0xe9e7cea3dedca5984780bafc599bd69add087d56, https://polygonscan.com/token/0xa1428174f516f527fafdd146b883bb4428682737
+https://ethplorer.io/address/0xe6dbeadd1823b0bcfeb27792500b71e510af55b3
 
 # Source Code (e.g. Github, Gitter)(optional)
 https://github.com/coco-frens
