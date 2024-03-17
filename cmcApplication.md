@@ -158,18 +158,16 @@ MUST be in this EXACT format - http://chainz.cryptoid.info/grs/api.dws?q=circula
 NA
 
 # [Optional] Are you willing to provide (dofollow) linkbacks to CMC?
-8 out of 10 applicants are willing to do so. Please see: https://gyazo.com/d76a8f1d7293bf9155b57d617c9b6efc. To understand what 'dofollow' means, please see: https://blog.alexa.com/dofollow-vs-nofollow-links/
+YES
 
 # [OPTIONAL] Are you willing to integrate the CoinMarketCap Telegram bot (https://t.me/CoinMarketCapPriceBot) into your official Telegram group/s?
-8 out of 10 applicants are willing to do so. Please see: https://docs.google.com/presentation/d/18rJnnx6Fyg8rAcUI1-TBd2_XKLiXi4tOYawF6tk4cyw/edit#slide=id.g1445d2b115a_10_0
+YES
 
 # [OPTIONAL] Are you willing to prioritize the sharing of CMC DEXSCAN links in your socials? See https://tinyurl.com/2ntnntey.
-CMC has a Telegram Bot (https://t.me/CoinMarketCapPriceBot) to help you engage your community. It can push hourly price, buy transaction, and even token listing celebration notifications to your group. Feel free to add the bot to your group now so that you can receive listing notifications. With 3M+ monthly visitors, Dexscan(https://coinmarketcap.com/dexscan/) can give your asset far more visibility. Dexscan offers a live chart, pool statistics, security check, and community board functions. The page views and interactions on your Dexscan page are factored into our listing decisions. 8 out of 10 applicants are willing to do so. Please see: https://tinyurl.com/2kkoes6u
+YES
 
 # ICO Page Application(optional)
-
-Proof/Supporting evidence/documents
-
+NO ICO
 
 # Provide proof (e.g. imgur, gyazo) that the request is authentic (e.g. info is reflected on website, announcement thread, twitter page, etc.). Please ensure that the requested updates match what is found on the project’s website/social media accounts. If the request entails changing the project’s website, please explain why the team is unable to get the original URL to redirect to the new website. Type 'NA' if not applicable.
 
