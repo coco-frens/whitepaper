@@ -93,9 +93,33 @@ Citations:
 
 # Hashing/Consensus Algorithm(optional)
 
+# Team/Backers/Investors
+The team is a community of COCO enthusiasts, who are invested into the token and wish to see it succeed. 
+
+At the core, three people are very active and engaged with the community.
+Keny Ruyter, a former employee of Yield App, a centralized yield platform, developer and entrepreneur.
+[Keny's Github page](https://github.com/snowkidind)
+[Keny's LinkedIn](https://www.linkedin.com/in/snowkidind/)
+Bitcoin Jake, prefers to stay anonymous and supports all privacy initiatives
+[Bitcoin Jake's Github page](https://github.com/BitcoinJake09)
+ABD, prefers to stay anonymous and handles social communications
+
+All of us volunteer our time.
+
 # Media Coverage/Awards(optional)
 
 # Traction/Adoption/Partnerships/MVPs/Apps
+Coco has three utilities, one already in production, one in progress and one slated for the future. 
+
+The utility in production is a deflationary NFT which burns COCO to mint AiCOCO which, in return you are awarded an NFT.
+[AiCOCO](https://opensea.io/collection/aicoco)
+[AiCOCO Source Code](https://github.com/coco-frens/aicoco)
+
+The second utility are Giveaways which are intended to support the community of artists who make tmemes. The giveaways are made from ecosystem purchases of the five different COCO NFT projects. (Yes there are 5 but only one technically connected to this currency) 
+[View NFT assets on ethereum slated for giveaways](https://opensea.io/cukoo_for_coco)
+
+The third utility in the future will address the large cost of mainnet transactions on ethereum. It is our intention to onboard ETH users to EVM L2's and our first goal is to get use cases built to allow for liquidity on Arbitrum, which would significantly reduce fees for our users.
+
 
 # Country of Origin (where majority of team is located)
 United States
@@ -121,7 +145,7 @@ https://coinmarketcap.com/dexscan/ethereum/0xeae4c727ea43990ea92f427da36ddff8e72
 No submission.
 
 Citations:
- - all known wallets have purchased their tokens off of uniswap v2 pool, except for the burn address and the uniswap pool itself.
+ - all known wallets have purchased and/or sold their tokens off of uniswap v2 pool, except for the burn address and the uniswap pool itself.
 [Top Holders List](https://ethplorer.io/address/0xe6dbeadd1823b0bcfeb27792500b71e510af55b3#pageSize=100&pageTab=holders&tab=tab-holders)
 
 # Emission/release schedule(optional)
@@ -217,3 +241,19 @@ NO ICO
 
 # Attachments(optional)
 This Document
+
+
+
+# follow up
+
+Please follow up your initial application with a public verification post. In order for us to display your contract address and explorer data, please make a public post using one of the accounts (e.g. social media) associated with the URLs found on the project's official website. In the post, mention the (i) ticket number that you received from your CMC application and (ii) CMC Dexscan URL (if available, e.g. https://tinyurl.com/28r22789). Provide the URL to the public post so that the CMC team can verify the information. This would give the team a greater degree of assurance in ascertaining the legitimacy of the request. This would prevent scammers from planting fake contract addresses. In addition, feel free to provide telegram @username of someone who can vouch for the legitimacy of this application.
+
+
+# Supporting evidence
+
+Additional Citations for the fields above can be found in our preparatory doc on github:
+
+https://github.com/coco-frens/whitepaper/blob/main/cmcApplication.md
+
+Socials are also publically linked on dextools interface, in the header bar of the chart:
+https://www.dextools.io/app/en/ether/pair-explorer/0xeae4c727ea43990ea92f427da36ddff8e72f6854?t=1710748052167
