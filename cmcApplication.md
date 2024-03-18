@@ -4,11 +4,13 @@ https://support.coinmarketcap.com/hc/en-us/requests/new?ticket_form_id=360000493
 COCO ETH TOKEN - COCO - Add cryptoasset/exchange
 
 # Relationship with the Project
-I am a founder of the community takeover for this crypto asset. We have been in place for about 7 months now. For detailed explanation see https://snowkidind.medium.com/cukoo-for-coco-c5f980a24cb7
-Please describe your relationship with the project (e.g. CEO, founder, employee, community member and exchange)
+I am a doxxed founder of the community takeover for this crypto asset. We have been in place for about 7 months now. For detailed explanation related to the community takeover see https://snowkidind.medium.com/cukoo-for-coco-c5f980a24cb7
 
 # Project Launch Date
-July 22, 2023
+July 22, 2023 [^1]
+
+[^1]: lorendkjfkdjkf
+
 
 # Project Name
 COCO
