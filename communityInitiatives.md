@@ -8,6 +8,25 @@ NOTE This is a work in progress and will be used to suppliment our roadmap as it
 
 Currently under construction, good things coming! Will present descriptions for this outline and more items soon!
 
+
+## Projects requiring some but not a lot of experience
+
+IF you are wishing to participate in developing the COCO ecosystem, there is an immediate need for a few projects.
+
+**How To's** - In order to steer buyers into the NFT ecosystem there is a need to provide How to's related to instructing a user how to find and purchase the various NFT's. immediately needed are these articles:
+1. Get rarecoco's
+2. Get Coco for Ordinals
+3. Get CocoNFTs on ETH
+4. Get Snappy Cocos
+5. Mint AiCocos and burn COCO
+
+**International Content** There is an immediate need to convert the story of COCO into Chinese and other popular languages like Russian and German. We need blog posts, articles, and other static pages which tell the story in other languages. (Could also use some articles in English as well)
+
+**Social Media Ambassador** There is an immediate need for social media ambassadors for various languages. COCO needs a presence on Reddit, Facebook, Instagram, Threads and Nostr as soon as possible. Prepare to own and take full responsibility for the platform of your choosing. We will help where we can at assisting growth of the respective page.
+
+
+
+
 ## Community
 ### Moderators Wanted
 ### Internationalization and International Ambassadors
