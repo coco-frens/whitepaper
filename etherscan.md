@@ -18,3 +18,18 @@ https://github.com/coco-frens/whitepaper/blob/main/cmcApplication.md
 
 Thank you for considering this.
 
+----
+Apr 9 
+
+Hi Keny, 
+
+Thank you for reaching out.
+
+Referring to your inquiry, for token contract addresses where the ownership has been renounced and the deployer address is no longer usable, as we are unable to verify the ownership of the address, we will only update the token's information based on its information available on either CoinGecko or CoinMarketCap.
+
+For priority support on token information update, there will be a fee of $1500 imposed. Please share us the CG/CMC listing and we will review it accordingly. 
+
+Best Regards, 
+Etherscan Priority Support Team
+
+----
