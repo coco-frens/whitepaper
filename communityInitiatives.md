@@ -88,6 +88,10 @@ design, css, features. As proposed in the developers section, the website is loo
 
 bot dev, currently considering replacing the raid bot with something easier on the eyes. But basically the overall strategy is to replace anything with external links and marketing with our own in house solutions
   
+### DevOps
+
+There is always a need to operate servers out in the wil, currently there are at least three droplets operating on accounts like Dgital Ocean and they have a monthly overhead which is being paid for. This expense is sure to grow as the community footprint grows. If your expertise is in DevOps this may be a place where your skills may be helpful. Also if you want to make directed donations towards the DevOps cost, We can make special arrangements to share the receipts of the actual costs of this.
+
 ### Dex, MM, and Cex dev
 
 establishing contact via verified channels
