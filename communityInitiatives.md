@@ -34,12 +34,6 @@ IF you are wishing to participate in developing the COCO ecosystem, there is an 
 ### Meme Integrations and Animations Wanted
 ### Music through COCO
 ## COCO Meme Artist Spotlights
-## How To's
-### Get rarecoco's
-### Mint AiCocos and burn COCO
-### get Coco for Ordinals
-### get CocoNFTs on ETH
-### get Snappy Cocos
 ## "Ethereum Foundation Initiatives"
 ### Gamification and L2 Integrations
 One of the core use cases that the COCO team can bring to the world is blueprinting a method for regular erc20 tokens to onboard their users to L2's in order to generate L2 liquidity so that trades are possible on them, particularly in the interest of reducing fees. Now is not really a problem at 40 - 50USD per trade, but when ethereum goes up to 10k, this will become a major issue and having infrastructure in place on L2's to facilitate trades in fairness will be paramount. The COCO contract is a vanilla erc20 making it 100 percent compatible with bridging to other EVM based L2 networks like arbitrum. There is already a proxy contract for COCO as well as a uniswap on arbitrum - see the deployments page for specifics of this. 
