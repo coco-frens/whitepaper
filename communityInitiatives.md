@@ -23,6 +23,8 @@ IF you are wishing to participate in developing the COCO ecosystem, there is an 
 
 **Social Media Ambassador** There is an immediate need for social media ambassadors for various languages. COCO needs a presence on Reddit, Facebook, Instagram, Threads and Nostr as soon as possible. Prepare to own and take full responsibility for the platform of your choosing. We will help where we can at assisting growth of the respective page.
 
+**Audio transcriptions of twitter spaces and other appearances** in order to build our international userbase, our twitter spaces need to be transcribed to english in order to generate chinese and russian translations of them. This text will also be used to seed AI in order to help us make better decisions and improve our overall presentation.
+
 ## Community
 ### Moderators Wanted
 ### Internationalization and International Ambassadors
