@@ -37,7 +37,7 @@ There is always a need for more modern memes. One thing a contributor can do is 
 
 **COCO Meme Artist Spotlights**
 
-### Gamification and L2 Integrations
+### Gamification and L2 Integrations - Abstract
 
 One of the core use cases that the COCO team can bring to the world is blueprinting a method for regular erc20 tokens to onboard their users to L2's in order to generate L2 liquidity so that trades are possible on them, particularly in the interest of reducing fees. Now is not really a problem at 40 - 50USD per trade, but when ethereum goes up to 10k, this will become a major issue and having infrastructure in place on L2's to facilitate trades in fairness will be paramount. The COCO contract is a vanilla erc20 making it 100 percent compatible with bridging to other EVM based L2 networks like arbitrum. There is already a proxy contract for COCO as well as a uniswap on arbitrum - see the deployments page for specifics of this. 
 
@@ -55,36 +55,39 @@ In tandem with the gamification ideas presented above, there is also an opportun
 
 We are currently 7 people. We are always looking to expand, and the best way to contribute is to rifle through this document and pick a topic you like and own it. Take the responsibility and spend some time getting to know us. that said there are always collaborative opportunities for the following topics. Please understand that we are a community funded project, and we don't have it in our budget to pay salaries. COCO relies on people to give contributions of their time and expertise. We want you to enjoy what you are doing, and if it is possible, all who help out will get rewarded in the end. If you want to see an effect of financial gain, grab yourself a bag of coco and watch it appreciate as you help out the community. (Not financial Advice)
 
-### Community Moderators
+## Community Moderators
 
 There is always a need for new moderators and there is a path that should be taken to get a trusted position in our channels. The best thing you can do is begin to look into our projects and see where you can normally contribute outside of asking for a trusted position. You are welcome to let us know you are interested in being amoderator, but also understand, there will be a vetting process and you will need to prove yourself trustworthy.
 
-### Graphics
+## Graphics
 
-There are also needs for graphics content for marketing purposes, telegram channels, video shorts, youtube videos, anything that involves imagery in a public place really. If you wish to bring this skill to the table. that is, outside of making memes, please let us know.
+There are also needs for graphics content for marketing purposes, telegram channels, video shorts, youtube videos, anything that involves imagery in a public place really. If you wish to bring this skill to the table, that is, outside of making memes, please let us know.
 
-### Programming
+## Programming
 
 There will be an ongoing need for people to contribute to the various codebases COCO is building. Most of the work is in Javascript / Node. We also have some solidity contracts as well as a frontend stack that uses react, vite, typescript, etc. If you posess these skills and want to contribute, introduce yourself and we can do a call and figure out what a good project you can contribute on would be that can utilize your skills appropriately.
 
-#### COCO Votes
+Here are some ideas proposed for development:
+
+**COCO Votes**
 
 this is an idea to specify a system of voting to establish an appropriate decision making process for various things like who gets to be a telegram admin or what to do with finances, e.g. decisions regarding MMs and listing fees, etc. Not quite a DAO but something that requires merit of some sort in order to have a say in what goes on.
  
-#### COCO Tipping Bot
+ **COCO Tipping Bot**
 
 this is part of an "eth foundation initiative" (we made this term up) of onboarding meme ecosystem to l2s. Tipping bot intended to onboard people to arbitrum, current mvp.
   
-### Media Page
+**Media Page**
+
 coco wiki: This is an idea for a centralized database to provide an api with endpoints to access all things coco, while also providing a browseable frontend which displays in wiki style all information known about a particular meme. 
 
-media repository: used for publishing of articles in particular, texts to use, photoshop documents and "official" graphics etc.
+TODO: (Snowkid) media repository: used for publishing of articles in particular, texts to use, photoshop documents and "official" graphics etc.
 
-### Website
+**Website**
  
 design, css, features. As proposed in the developers section, the website is looking like it needs a revamp. If you are skilled with css, react, javascript, etc, get in touch or if you have an idea you wish to materialize it's open source, make a pull request or clear it with us first if you want further guidance.
 
-### Telegram and discord integrations
+**Telegram and discord integrations**
 
 bot dev, currently considering replacing the raid bot with something easier on the eyes. But basically the overall strategy is to replace anything with external links and marketing with our own in house solutions
   
@@ -92,13 +95,12 @@ bot dev, currently considering replacing the raid bot with something easier on t
 
 There is always a need to operate servers out in the wil, currently there are at least three droplets operating on accounts like Dgital Ocean and they have a monthly overhead which is being paid for. This expense is sure to grow as the community footprint grows. If your expertise is in DevOps this may be a place where your skills may be helpful. Also if you want to make directed donations towards the DevOps cost, We can make special arrangements to share the receipts of the actual costs of this.
 
-### Dex, MM, and Cex dev
+## Business Development, Dex, MM, Cex dev
 
 establishing contact via verified channels
-
 being a trusted liason
 
-### Marketing / Business Development
+## Marketing
 
 TODO - elaborate on this subject
 
