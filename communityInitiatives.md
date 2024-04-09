@@ -40,32 +40,62 @@ IF you are wishing to participate in developing the COCO ecosystem, there is an 
 ### get Snappy Cocos
 ## "Ethereum Foundation Initiatives"
 ### Gamification and L2 Integrations
+One of the core use cases that the COCO team can bring to the world is blueprinting a method for regular erc20 tokens to onboard their users to L2's in order to generate L2 liquidity so that trades are possible on them, particularly in the interest of reducing fees. Now is not really a problem at 40 - 50USD per trade, but when ethereum goes up to 10k, this will become a major issue and having infrastructure in place on L2's to facilitate trades in fairness will be paramount. The COCO contract is a vanilla erc20 making it 100 percent compatible with bridging to other EVM based L2 networks like arbitrum. There is already a proxy contract for COCO as well as a uniswap on arbitrum - see the deployments page for specifics of this. 
+
+As we can see there is an incentive to getting users onboarded to L2's and the solution that is being proposed is to do a tipping bot that handles withdrawals via the L2, requiring a user to "figure it out". In all reality, using an L2 is very simple and also easy to explain. Further, once the wallet infrastructure of the tipping bot is established, then we can degin to add games which allow a user to earn real COCO, as well as make purchases for in app assets and such which would greatly benefit a community. Finally, the transactions of these games will be mostly on the selected L2 and perhaps deposits will be facilitated on ethereum. 
+
+We are looking to get the discussion rolling around solving this important issue which has caused most of the meme industry to offload ethereum, citing expenses as the main cause. It is highly likely that good solutions of this subject and efficient onboarding can cause a shift of the current meme ecosystem from other chains like solana back to existing on ethereum.
 
 # Dev operations
 
 ### COCO L2 Dapps
+
+In tandem with the gamification ideas presented above, there is also an opportunity to create some staking / nft / other solutions on L2 products. In alignment with the idea of bringing volume back to ethereum, COCO should be the first meme token to adopt an L2 ecosystem for meme - based utlity and be a beacon for user onboarding this process.
+
 ## Operations and Team
+
+We are currently 7 people. We are always looking to expand, and the best way to contribute is to rifle through this document and pick a topic you like and own it. Take the responsibility and spend some time getting to know us. that said there are always collaborative opportunities for the following topics. Please understand that we are a community funded project, and we don't have it in our budget to pay salaries. COCO relies on people to give contributions of their time and expertise. We want you to enjoy what you are doing, and if it is possible, all who help out will get rewarded in the end. If you want to see an effect of financial gain, grab yourself a bag of coco and watch it appreciate as you help out the community. (Not financial Advice)
+
 ### Graphics
+
+There is always a need for more modern memes. One thing a contributor can do is be on the lookout for trending memes / jokes / etc, and apply coco to it. There is a couple photoshop documents ready and is available on the media page, (this is under construction) which provides a lot of raw materials to choose from. 
+
 ### Programming
+
+There will be an ongoing need for people to contribute to the various codebases COCO is building. Most of the work is in Javascript / Node. We also have some solidity contracts as well as a frontend stack that uses react, vite, typescript, etc. If you posess these skills and want to contribute, introduce yourself and we can do a call and figure out what a good project you can contribute on would be that can utilize your skills appropriately.
+
 #### COCO Votes
+
  - this is an idea to specify a system of voting to establish an appropriate decision making process for various things like who gets to be a telegram admin or what to do with finances, e.g. decisions regarding MMs and listing fees, etc. Not quite a DAO but something that requires merit of some sort in order to have a say in what goes on.
+ - 
 #### COCO Tipping Bot
+
  - this is part of an "eth foundation initiative" (we made this term up) of onboarding meme ecosystem to l2s. Tipping bot intended to onboard people to arbitrum, current mvp.
+  
 ### Media Page
- - coco wiki
- - media used for publishing of articles in particular
+ - coco wiki: This is an idea for a centralized database to provide an api with endpoints to access all things coco, while also providing a browseable frontend which displays in wiki style all information known about a particular meme. 
+ - media used for publishing of articles in particular, texts to use, photoshop documents and "official" graphics etc.
 ### Website
- - design, css, features
+ 
+ - design, css, features. As proposed in the developers section, the website is looking like it needs a revamp. If you are skilled with css, react, javascript, etc, get in touch or if you have an idea you wish to materialize it's open source, make a pull request or clear it with us first if you want further guidance.
+
 ### Telegram and discord integrations
  - bot dev
+  
 #### Dex, MM, and Cex dev
+
  - establishing contact via verified channels
  - being a trusted liason
+
 ### Marketing / Business Development
+
  - strategic content distribution
  - identifying key performance indicators
  - external products, guest publishing
  - managing seo
  - finding sponsorships, appropriate kols
+
 ## COCO Community Fund
+
+The COCO community fund is a collaborative fund stored in an ethereum address. The funds are used for the purposes of forwarding the COCO project in general. All funds have been donated by other members. There is an everpresent need to evangelize the fund and to get people to contribute. If you are able to see the good in what we are doing, perhaps you might be able to connect us with some people, for instance ethereum foundation bounty programs and the like, or just feel like contributing it is a great way to provide us with some ability to get things done. cococommunityfund.eth
 
