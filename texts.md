@@ -131,3 +131,68 @@ The original supply of the token was 420.69 trillion. Over 17 trillion (4.04% as
 
 COCO is a meme coin like no other, embodying the iconic Pepe meme style and offering a unique, organic meme experience. Its limitless creative potential, from the lovable crocodile theme to playful variants like "In love with the coco," ensures a constant stream of engaging content, strong community support.
 
+## 10 Scamu (Long)
+
+🚨 Beware of Scammers! 🚨
+
+🔍 We've noticed fake and copycat accounts popping up on Telegram and Twitter, along with impersonators trying to deceive our community.
+
+🛑 Remember: We do not have any active airdrops. If anyone claims otherwise, it's a scam!
+
+✅ Help us keep our community safe by reporting these bad actors. Find our OFFICIAL channels here:
+Twitter: https://twitter.com/thecocoethtoken
+Telegram: https://t.me/TheCocoEthToken
+
+Stay vigilant and stay safe! #ScamAlert
+
+Verify the details on Dextools using our ca: 0xe6dbeadd1823b0bcfeb27792500b71e510af55b3
+
+## 11 Scamu (Short)
+
+🔍 We've noticed fake and copycat accounts popping up on Telegram and Twitter, along with impersonators trying to deceive our community.
+
+🛑 We do not have any active airdrops.
+
+Twitter: https://twitter.com/thecocoethtoken
+Telegram: https://t.me/TheCocoEthToken
+
+## 12 Narrative Enhancers (A post from Snowkid)
+
+Frens I am building a community of people who want to see innovation, and are capable of seeing how something as frivolous as meme coins can also include important developments. Like minded people to the front please:
+
+In the EARLY DAYS everyone was just passing DOGE around freely because they could. Interesting thing about DOGE was it was one of the first tokens to approach the concept of privacy coins when the dev, sunerok (aka vergedev) forked it into DOGE DARK, which later became VERGE (XVG). Other privacy coin technology followed and is still super important and significant to this day.
+
+PEPE itself was also a groundbreaking meme project where the memes were encoded on to the bitcoin blockchain via the COUNTERPARTY system in 2014. These were the earliest NFT's and we now know the significance of the NFT market and where did it come from? Memes.
+
+Only recently has the meme narrative been unsupported by actual people trying to innovate, case in point the “niggaverse” that recently occurred.  What does this bring to the ecosystem?
+
+We, "The MEME community", as a space need to innovate and if there aren't any reasons to do so we must make our own innovations.
+
+There must be a narrative based on innovation as opposed to simply riding on NOTHING, or other tokens coattails. 
+
+Think outside the box and all will become clear, frens.
+
+Again, I am looking for like minds to join this vector and create innovation while supporting the underlying universe of memes. I have ideas, come hang out in the $COCO telly to discuss or check out our community initiatives page to get a rough draft of what I am thinking re: gamification and bringing low cost transactions to memes and other ERC-20's ethereum.
+
+
+## 13 Halving Press Release
+
+FOR IMMEDIATE RELEASE
+
+COCO Emerges as a Rare Gem in the World of Collectibles and Currency
+
+20 April, 2024: COCO, a unique blend of collectible art and digital currency, has completed its minting process, solidifying its status as one of the rarest assets on Earth.
+
+As the world witnessed the fourth Bitcoin halving event, the culmination of rare COCOs marks the beginning of a new phase in collector's specialties. Meanwhile, the currency variant of COCO on the Ethereum network continues to demonstrate remarkable resilience.
+
+The journey of COCO traces back to the early days of Non-Fungible Tokens (NFTs), predating even the emergence of Ordinals and Runes on the Bitcoin network. Originating circa 2014, these pioneering NFTs found a passionate community, particularly among enthusiasts of the iconic PEPE meme, envisioned by Matt Furie. Building upon the success of PEPE, artist Kero unveiled COCO, a crocodile rendition of the beloved character, to the public eye approximately nine months prior to this release. This sparked a wave of creativity, with many original PEPE artists and enthusiasts joining forces to craft memes inspired by this new character - COCO.
+
+In the spirit of Rare Pepes, "Rare Coco" was born. This collection of meticulously crafted NFT artworks, curated by Kero and published on the Bitcoin blockchain via Counterparty, was officially declared complete on April 20, 2024, coinciding with the fourth Bitcoin Halving event.
+
+Simultaneously, on COCO's inception day, Kero introduced an Ethereum-based token. A vibrant community of COCO enthusiasts now oversees this currency, dedicated to supporting the artists behind the rarecoco project and ensuring the ongoing relevance of COCO in the digital realm.
+
+The COCO ecosystem is rapidly expanding. To commemorate the genesis of the rarecoco project, a captivating sticker set titled "COCO FEELS" has been designed for use in everyday social media conversations. Currently integrated into Telegram and Signal messengers, plans are underway to extend its availability to other popular platforms.
+
+For cryptocurrency speculators eager to explore the COCO ETH token, visit https://twitter.com/thecocoethtoken
+
+Art aficionados seeking Rare Coco Bitcoin NFTs can find them at https://rarecoco.wtf
