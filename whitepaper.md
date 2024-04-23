@@ -30,7 +30,7 @@ COCO investors are not solely motivated by profit; they share a deep affection f
 
 ### 2.2 Supporting Artists
 
-COCO's vision extends beyond mere profit generation. The community aspires to play an integral role in supporting digital artists. By acting as ambassadors for COCO, community members will help artists gain recognition and revenue by spreading their art around and pointing interested parties to their points of sale.
+COCO's vision extends beyond mere profit generation. The community aspires to play an integral role in supporting digital artists. By acting as ambassadors for COCO, community members will help artists gain recognition and revenue by spreading their art around and pointing interested parties to their points of sale. Through marketing, networking and other means, the team will continue to support coco meme artists, and particularly those associated with rarecoco.wtf. 
 
 ### 2.3 Educating Investors
 
