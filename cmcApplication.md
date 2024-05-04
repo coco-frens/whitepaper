@@ -4,7 +4,7 @@ https://support.coinmarketcap.com/hc/en-us/requests/new?ticket_form_id=360000493
 COCO ETH TOKEN - COCO - Add cryptoasset/exchange
 
 # Relationship with the Project
-I am a (doxxed) founder of the "community takeover" for this crypto asset. During the first couple months of the token's existence, the anonymous devs were present, but at some point they deleted the social channels and sold their token allocations to the uniswap pool. At that point Myself and a few other invested partied decided to build a community around the token anyway. I manage the community fund, which holds, and will occasionally buy and sell COCO into its treasury. Funds were seeded by community donations.
+I am a (doxxed) co-founder of the "community takeover" for this crypto asset. During the first couple months of the token's existence, the anonymous devs were present, but at some point they deleted the social channels and sold their token allocations to the uniswap pool. At that point Myself and a few other invested partied decided to build a community around the token anyway. I manage the community fund, which holds, and will occasionally buy and sell COCO into its treasury. Funds were seeded by community donations.
 
 Citations:
 

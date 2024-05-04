@@ -8,39 +8,39 @@ COCO is an ERC-20 token built on the Ethereum blockchain, intertwining the world
 
 ### 1.1 Background
 
-COCO is the brainchild of renowned digital artist KeroNFTs, who introduced Coco, the iconic crocodile meme, to the world of Web3. Unlike previous meme tokens, COCO stands out by embracing the artistry of digital content, immutably recorded on the Bitcoin blockchain. The name "Coco" fits within the tradition of four-letter meme tokens like Mumu, Bobo, Dodo, and Pepe.
+COCO is the brainchild of digital artist KeroNFTs, who introduced Coco, the iconic crocodile meme, to the world of Web3. Unlike previous meme tokens, COCO stands out by embracing the artistry of digital content, immutably recorded on the Bitcoin blockchain. The name "Coco" fits within the tradition of four-letter meme tokens like Mumu, Bobo, Dodo, and Pepe. Additionally a cryptocurrency is broadcasted to Ethereum called COCO on ETH, which allows a more diverse set of people to participate in celebrating the COCO meme.
 
 ### 1.2 The Value of Memes and Digital Art
 
-The world recognizes that memes have the unique power to bring joy and happiness. Numerous articles highlight the happiness memes bring to our lives. Moreover, memes have proven their profitability and investment potential, especially when artists like KeroNFTs immortalize them through digital art on the Bitcoin blockchain.
+The world recognizes that memes have the unique power to bring joy and happiness. Numerous articles highlight the happiness memes bring to our lives. Moreover, memes have proven their profitability and investment potential, especially when artists like those found on rarecoco.wtf immortalize them through digital art on the Bitcoin blockchain. Further, since the barrier to entry of purchasing the art itself is high, the ETH based cyrrency allows people to gain financial exposure to the movement using easier and well known methods.
 
 ### 1.3 The Birth of Coco Community
 
-COCO's popularity is evident through the wealth of digital art submitted to its dispensary at [rarecoco.wtf](https://rarecoco.wtf) — a virtual art gallery on the blockchain. This platform empowers artists, allowing them to profit from their creations when they are purchased using Bitcoin. The value of NFTs may be subject to debate, but the enthusiasm and prolific creation of digital art in the Rare Coco collection are undeniable.
+COCO's popularity is evident through the wealth of digital art submitted to its dispensary at [rarecoco.wtf](https://rarecoco.wtf) — a virtual art gallery on the blockchain. This platform empowers artists, allowing them to profit from their creations when they are purchased using Bitcoin. The value of NFTs may be subject to debate, but the enthusiasm and prolific creation of digital art in the Rare Coco collection are undeniable. The rarecoco collection is now closed to new submissions, but other projects are around which allow the further creation and monetization of COCO based art. 
 
 ### 1.4 Community Spirit
 
-COCO is more than just a financial investment; it fosters a vibrant community united by a shared love for memes and fun. Coco enthusiasts gather in Telegram rooms to connect and identify themselves as proud members of the Coco Community. This sense of belonging is a powerful force in the world of meme tokens.
+COCO is more than just a financial investment; it fosters a vibrant community united by a shared love for memes and fun. Coco enthusiasts gather in Telegram rooms to connect and identify themselves as proud members of the Coco Community. This sense of belonging is a powerful force in the world of meme tokens. Often people are asking for links to social media sites to engage with and they frequently post their own creations to social media.
 
 ## 2. Community-Driven Goals
 
 ### 2.1 The Power of Community
 
-COCO investors are not solely motivated by profit; they share a deep affection for memes and the community they have built. The Coco Community actively promotes COCO by engaging the public on social media platforms like X (formerly Twitter) and beyond.
+Valued community members share a deep affection for memes and the community they have built. They actively promote COCO by regularly engaging the public on social media platforms like X (formerly Twitter) and beyond. Contributors have also created many "sticker sets", which is a popular method to embrace the meme in regular everyday conversations.
 
 ### 2.2 Supporting Artists
 
-COCO's vision extends beyond mere profit generation. The community aspires to play an integral role in supporting digital artists. By acting as ambassadors for COCO, community members will help artists gain recognition and revenue by spreading their art around and pointing interested parties to their points of sale. Through marketing, networking and other means, the team will continue to support coco meme artists, and particularly those associated with rarecoco.wtf. 
+The community aspires to play an integral role in supporting digital artists. By acting as ambassadors for COCO, community members will help artists gain recognition and revenue by spreading their art around and pointing interested parties to their points of sale. Through marketing, networking and other means, the team will continue to support coco meme artists, and particularly those associated with the original art site: rarecoco.wtf. It is also possible for the COCO on ETH community to orchestrate giveaways of this art to add value across the ecosystems.
 
 ### 2.3 Educating Investors
 
-A key objective of the Coco Community is to educate investors on the value of investing in digital art within the Web3 space. This involves providing links to educational videos and articles, as well as instructions on safely purchasing digital art. This includes cross promoting other COCO products, and helping people find out how to get them. Currently there are 5 existing COCO NFT projects: AiCoco, COCO for Ordinals, Snappy Cocos, Coco on ETH, and of course the popular rarecoco.wtf, of which crossing a few different blockchains and platforms.
+A key objective of the Coco Community is to educate investors on the value of investing in digital art within the Web3 space. This involves providing links to educational videos and articles, as well as instructions on safely purchasing digital art. This includes cross promoting other COCO products, and helping people find out how to get them. Currently there are 5 existing COCO NFT projects: AiCoco, COCO for Ordinals, Snappy Cocos, Coco on ETH, rarecoco.wtf
 
 ## 3. The Journey of COCO
 
 ### 3.1 Reducing the Initial Supply
 
-To further enhance the utility and value proposition of COCO, the community is actively working on a groundbreaking project. This project revolves around community-curated, AI-generated NFTs which create a burn mechanism with the ultimate goal of reducing the supply of COCO by 20%.
+To further enhance the utility and value proposition of COCO, the community is actively working on a groundbreaking project. This project revolves around community-curated, AI-generated NFTs which create a burn mechanism with the ultimate goal of reducing the supply of COCO by 20%. This community burn is available on [cocoethtoken.com](http://cocoethtoken.com)
 
 #### 3.1.1 Benefits of Reducing the Supply
 
@@ -64,7 +64,7 @@ Despite the challenges COCO has faced, the community's resilience and dedication
 
 ### 4.2 A Bridge Between Art and Blockchain
 
-COCO's journey exemplifies the fusion of art and blockchain technology. By supporting artists and nurturing a community, COCO aims to elevate digital art to new heights, bridging the gap between creativity and the blockchain. Thusly, we plan to help bring COCO meme creators into the spotlight by introducing them to our community in various ways.
+COCO's journey exemplifies the fusion of art and blockchain technology. By supporting artists and nurturing a community, COCO aims to elevate digital art to new heights, bridging the gap between creativity and the blockchain. Thusly, the community plans to help bring COCO meme creators into the spotlight by introducing them to our community in various ways.
 
 ### 4.3 Bridging to lower cost L2 chains
 
